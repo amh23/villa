@@ -1,0 +1,164 @@
+[
+    {   
+        "villaName": "Rose",
+        "images": ["/src/assets/images/1.jpg","/src/assets/images/2.jpg","/src/assets/images/3.jpg"],
+        "thumbnail": "/src/assets/images/1.jpg",
+        "address": {"city": "San Antonio", "state": "TX", "country": "United States"},
+        "capacity": 10,
+        "price": 199,
+        "facilities": {"bedroom": 4, "bathroom": 2, "pool": true, "kitchen": true}
+    },
+    {
+        "villaName": "Columbia Villa",
+        "images": ["/src/assets/images/2.jpg","/src/assets/images/3.jpg","/src/assets/images/4.jpg"],
+        "thumbnail": "/src/assets/images/2.jpg",
+        "address": {"city": "Columbia", "state": "Missouri", "country": "United States"},
+        "capacity": 10,
+        "price": 133,
+        "facilities": {"bedroom": 4, "bathroom": 2, "pool": true, "kitchen": true}
+    },
+    {
+        "villaName": "California Villa",
+        "images": ["/src/assets/images/3.jpg","/src/assets/images/4.jpg","/src/assets/images/5.jpg"],
+        "thumbnail": "/src/assets/images/3.jpg",
+        "address": {"city": "Orange", "state": "California", "country": "United States"},
+        "capacity": 10,
+        "price": 155,
+        "facilities": {"bedroom": 4, "bathroom": 2, "pool": true, "kitchen": true}
+    },
+    {
+        "villaName": "Orange Villa",
+        "images": ["/src/assets/images/4.jpg","/src/assets/images/5.jpg","/src/assets/images/6.jpg"],
+        "thumbnail": "/src/assets/images/4.jpg",
+        "address": {"city": "Orange", "state": "California", "country": "United States"},
+        "capacity": 10,
+        "price": 545,
+        "facilities": {"bedroom": 4, "bathroom": 2, "pool": true, "kitchen": true}
+    },
+    {
+        "villaName": "Rose",
+        "images": ["/src/assets/images/5.jpg","/src/assets/images/6.jpg","/src/assets/images/7.jpg"],
+        "thumbnail": "/src/assets/images/5.jpg",
+        "address": {"city": "San Antonio", "state": "TX", "country": "United States"},
+        "capacity": 10,
+        "price": 678,
+        "facilities": {"bedroom": 4, "bathroom": 2, "pool": true, "kitchen": true}
+    },
+    {
+        "villaName": "Goria Villa",
+        "images": ["/src/assets/images/6.jpg","/src/assets/images/7.jpg","/src/assets/images/8.jpg"],
+        "thumbnail": "/src/assets/images/6.jpg",
+        "address": {"city": "Macon", "state": "Gorgia", "country": "United States"},
+        "capacity": 10,
+        "price": 212,
+        "facilities": {"bedroom": 4, "bathroom": 2, "pool": true, "kitchen": true}
+    },
+    {
+        "villaName": "Macon Villa",
+        "images": ["/src/assets/images/7.jpg","/src/assets/images/8.jpg","/src/assets/images/9.jpg"],
+        "thumbnail": "/src/assets/images/7.jpg",
+        "address": {"city": "Macon", "state": "Gorgia", "country": "United States"},
+        "capacity": 10,
+        "price": 232,
+        "facilities": {"bedroom": 4, "bathroom": 2, "pool": true, "kitchen": true}
+    },
+    {
+        "villaName": "Suprise Villa",
+        "images": ["/src/assets/images/8.jpg","/src/assets/images/9.jpg","/src/assets/images/10.jpg"],
+        "thumbnail": "/src/assets/images/8.jpg",
+        "address": {"city": "Suprise", "state": "Arizona", "country": "United States"},
+        "capacity": 10,
+        "price": 212,
+        "facilities": {"bedroom": 4, "bathroom": 2, "pool": true, "kitchen": true}
+    },
+    {
+        "villaName": "Rose",
+        "images": ["/src/assets/images/9.jpg","/src/assets/images/10.jpg","/src/assets/images/11.jpg"],
+        "thumbnail": "/src/assets/images/9.jpg",
+        "address": {"city": "San Antonio", "state": "TX", "country": "United States"},
+        "capacity": 10,
+        "price": 252,
+        "facilities": {"bedroom": 4, "bathroom": 2, "pool": true, "kitchen": true}
+    },
+    {
+        "villaName": "Ohio Villa",
+        "images":["/src/assets/images/10.jpg","/src/assets/images/11.jpg","/src/assets/images/12.jpg"],
+        "thumbnail": "/src/assets/images/10.jpg",
+        "address": {"city": "Akron", "state": "Ohio", "country": "United States"},
+        "capacity": 10,
+        "price": 111,
+        "facilities": {"bedroom": 4, "bathroom": 2, "pool": true, "kitchen": true}
+    },
+    {
+        "villaName": "Akron Villa",
+        "images": ["/src/assets/images/11.jpg","/src/assets/images/12.jpg","/src/assets/images/13.jpg"],
+        "thumbnail": "/src/assets/images/11.jpg",
+        "address": {"city": "Akron", "state": "Ohio", "country": "United States"},
+        "capacity": 10,
+        "price": 321,
+        "facilities": {"bedroom": 4, "bathroom": 2, "pool": true, "kitchen": true}
+    },
+    {
+        "villaName": "Rock and Roll Villa",
+        "images": ["/src/assets/images/12.jpg","/src/assets/images/13.jpg","/src/assets/images/14.jpg"],
+        "thumbnail": "/src/assets/images/12.jpg",
+        "address": {"city": "New York", "state": "New York", "country": "United States"},
+        "capacity": 10,
+        "price": 120,
+        "facilities": {"bedroom": 4, "bathroom": 2, "pool": true, "kitchen": true}
+    },
+    {
+        "villaName": "Hero Villa",
+        "images": ["/src/assets/images/13.jpg","/src/assets/images/14.jpg","/src/assets/images/15.jpg"],
+        "thumbnail": "/src/assets/images/13.jpg",
+        "address": {"city": "New York", "state": "New York", "country": "United States"},
+        "capacity": 10,
+        "price": 111,
+        "facilities": {"bedroom": 4, "bathroom": 2, "pool": true, "kitchen": true}
+    },
+    {
+        "villaName": "New York Villa",
+        "images": ["/src/assets/images/14.jpgQ","/src/assets/images/15.jpg","/src/assets/images/16.jpg"],
+        "thumbnail": "/src/assets/images/14.jpg",
+        "address": {"city": "New York ", "state": "New York", "country": "United States"},
+        "capacity": 10,
+        "price": 222,
+        "facilities": {"bedroom": 4, "bathroom": 2, "pool": true, "kitchen": true}
+    },
+    {
+        "villaName": "Chiago Villa",
+        "images":["/src/assets/images/15.jpg","/src/assets/images/16.jpg","/src/assets/images/17.jpg"],
+        "thumbnail": "/src/assets/images/15.jpg",
+        "address": {"city": "Chicago", "state": "Illinois", "country": "United States"},
+        "capacity": 10,
+        "price": 555,
+        "facilities": {"bedroom": 4, "bathroom": 2, "pool": true, "kitchen": true}
+    },
+    {
+        "villaName": "Portland Villa",
+        "images": ["/src/assets/images/16.jpg","/src/assets/images/17.jpg","/src/assets/images/18.jpg"],
+        "thumbnail": "/src/assets/images/16.jpg",
+        "address": {"city": "Portland", "state": "Oregon", "country": "United States"},
+        "capacity": 10,
+        "price": 212,
+        "facilities": {"bedroom": 4, "bathroom": 2, "pool": true, "kitchen": true}
+    },
+    {
+        "villaName": "Castle",
+        "images": ["/src/assets/images/17.jpg","/src/assets/images/18.jpg","/src/assets/images/1.jpg"],
+        "thumbnail": "/src/assets/images/17.jpg",
+        "address": {"city": "Austin", "state": "Texas", "country": "Unted States"},
+        "capacity": 10,
+        "price": 323,
+        "facilities": {"bedroom": 4, "bathroom": 2, "pool": true, "kitchen": true}
+    },
+    {
+        "villaName": "Pearl",
+        "images": ["/src/assets/images/18.jpg","/src/assets/images/1.jpg","/src/assets/images/2.jpg"],
+        "thumbnail": "/src/assets/images/18.jpg",
+        "address": {"city": "San Diego", "state": "California", "country": "United States"},
+        "capacity": 10,
+        "price": 111,
+        "facilities": {"bedroom": 4, "bathroom": 2, "pool": true, "kitchen": true}
+    }
+]
