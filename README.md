@@ -3,7 +3,7 @@ This projected was developed using node.js express framework.
 
 # Database Server
 
-Go to [title]https://account.mongodb.com/account/login and create a new account or if you have one, please sign in.
+Go to https://account.mongodb.com/account/login and create a new account or if you have one, please sign in.
 
 ## Create Free Shared Account
 
@@ -21,5 +21,7 @@ Go to [title]https://account.mongodb.com/account/login and create a new account 
 
  `DATABASE_URL = 'database connection string'`
 
- 8. Run `npm start` command 
+# Development Server
+
+Run `npm start` command for dev server. 
 
