@@ -21,7 +21,11 @@ Go to https://account.mongodb.com/account/login and create a new account or if y
 
  `DATABASE_URL = 'database connection string'`
 
+# Project Setup
+
+`npm install`
+
 # Development Server
 
-Run `npm start` command for dev server. 
+Run `npm start` command for dev server and server is listenng at port 8000.
 
